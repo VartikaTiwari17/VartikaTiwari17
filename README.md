@@ -1,34 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,40:451126,100:701A3D&height=220&section=header&text=Vartika%20Tiwari&fontSize=48&fontColor=F8F0F3&animation=fadeIn&fontAlignY=38" width="100%" alt="Vartika Tiwari burgundy banner"/>
+# 👋 Hi, I'm Vartika Tiwari
 
-# ✨ Vartika Tiwari
+### 💻 Aspiring Software Engineer | Full-Stack Developer
 
-### `Software Engineer` · `Full-Stack Developer`
+Building practical web applications, developing backend APIs, and continuously improving my problem-solving skills.
 
-Building projects, solving problems, and learning something new every day.
-
-<a href="https://github.com/VartikaTiwari17">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<a href="https://vartika-portfolio-xi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-e34b79?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
-<a href="https://github.com/VartikaTiwari17?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View%20Repositories-451126?style=for-the-badge&logo=git&logoColor=white" alt="View projects"/>
+<a href="https://github.com/VartikaTiwari17">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/vartika-tiwari-a59504291">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-## 🌹 About Me
+## 👩‍💻 About Me
 
-Hi! I'm **Vartika Tiwari**, an aspiring software engineer interested in building practical applications and exploring full-stack development.
+I'm a Computer Science graduate interested in software engineering and full-stack web development. I enjoy turning ideas into practical applications and learning how to build reliable, maintainable software.
 
-* 💻 Interested in software engineering and web development.
-* 🌱 Continuously improving my programming and problem-solving skills.
-* 🚀 Enjoy working on projects that solve practical problems.
-* 🤝 Interested in collaborating on development projects and learning from other developers.
-* 🎯 Focused on growing as a developer through consistent practice and project building.
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (2022–2026)
+* 💡 **Interests:** Full-stack development, backend engineering, and REST APIs
+* 🌱 **Currently improving:** JavaScript, React, backend development, and problem-solving
+* 🤝 **Experience:** Internship experience in MERN Stack, Django, and Web Development
+* 🚀 **Goal:** Grow as a Software Engineer by building useful projects and collaborating with development teams.
 
 ---
 
@@ -36,104 +36,117 @@ Hi! I'm **Vartika Tiwari**, an aspiring software engineer interested in building
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-451126?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-451126?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Frontend
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-451126?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-451126?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-451126?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-451126?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
-### Backend & Database
+### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-451126?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-451126?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-451126?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-451126?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
 
-### Tools
+### Databases
 
-![Git](https://img.shields.io/badge/Git-451126?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-451126?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-> Keep only technologies you have actually studied or used and can confidently discuss in an interview.
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- PROJECTS:START -->
+### 🛍️ [Vibe-Wault — Collaborative E-commerce Project](https://github.com/VexquorAIorg/Vibe-Wault)
 
-### 🛍️ Vibe-Wault
+**Tech Stack:** Node.js · Express.js · MongoDB
 
-A collaborative e-commerce project focused on backend development.
+Contributing to backend development for a collaborative e-commerce application.
 
-* **Technologies:** Node.js, Express.js, MongoDB
-* **Features:** Authentication, product APIs, cart, orders, and payment integration work.
-* **Repository:** [Explore Vibe-Wault](https://github.com/VexquorAIorg/Vibe-Wault)
+* 🔐 JWT-based authentication and role-based authorization
+* 📦 Product and collection APIs
+* 🛒 Cart and order management APIs
+* 💳 Razorpay test-mode payment integration work
 
-### 💻 Explore My Other Projects
+### 🧮 [NeonCalculator](https://github.com/VartikaTiwari17/NeonCalculator)
 
-Discover more of my development work through my public repositories.
+**Tech Stack:** HTML · CSS · JavaScript
 
-[![All Repositories](https://img.shields.io/badge/Explore-All%20Repositories-701A3D?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VartikaTiwari17?tab=repositories)
+An interactive calculator with a neon-inspired interface, arithmetic operations, and visual effects.
 
-<!-- PROJECTS:END -->
+### ✅ [FormValidation](https://github.com/VartikaTiwari17/FormValidation)
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+A form validation project that checks user input before submission.
+
+### 🌦️ [Weather App](https://github.com/VartikaTiwari17/weather-app)
+
+**Tech Stack:** HTML · CSS · JavaScript · OpenWeatherMap API
+
+A weather application that retrieves current weather information for cities using a weather API.
+
+### 🌐 [Frontend Assignment](https://github.com/VartikaTiwari17/camonk-frontend-assignment)
+
+Explore my frontend development work and implementation of interface requirements.
+
+### ✨ [Explore All My Repositories](https://github.com/VartikaTiwari17?tab=repositories)
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/VartikaTiwari17">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VartikaTiwari17&show_icons=true&theme=radical&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3" alt="GitHub statistics"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VartikaTiwari17&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<a href="https://github.com/VartikaTiwari17">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VartikaTiwari17&layout=compact&theme=radical&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used programming languages"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VartikaTiwari17&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=VartikaTiwari17&theme=radical&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=VartikaTiwari17&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 What I'm Working Towards
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VartikaTiwari17&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🌐 Find Me Online
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Repositories-451126?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VartikaTiwari17)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-451126?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-
-</div>
-
-> Replace the LinkedIn link above with your actual LinkedIn profile URL before publishing.
+* Strengthening my data structures and algorithms fundamentals.
+* Building and improving full-stack applications.
+* Writing cleaner, maintainable code.
+* Learning backend architecture and API development best practices.
+* Collaborating with developers and contributing to meaningful projects.
 
 ---
 
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, collaborating on projects, and exploring suitable software development opportunities.
+
+* 🌐 **Portfolio:** [vartika-portfolio-xi.vercel.app](https://vartika-portfolio-xi.vercel.app/)
+* 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/vartika-tiwari-a59504291)
+* 🐙 **GitHub:** [VartikaTiwari17](https://github.com/VartikaTiwari17)
+* 📧 **Email:** [vartikatiwari688@gmail.com](mailto:vartikatiwari688@gmail.com)
+
 <div align="center">
 
-### 🍷 Learn. Build. Improve. Repeat.
+### 🌷 Learn. Build. Improve. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,60:451126,100:10070C&height=100&section=footer" width="100%" alt="Burgundy footer"/>
+*Thanks for visiting my profile!*
 
 </div>
