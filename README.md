@@ -1,78 +1,139 @@
 <div align="center">
 
-# Vartika Tiwari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,40:451126,100:701A3D&height=220&section=header&text=Vartika%20Tiwari&fontSize=48&fontColor=F8F0F3&animation=fadeIn&fontAlignY=38" width="100%" alt="Vartika Tiwari burgundy banner"/>
 
-### Software Engineer | Full-Stack Developer
+# ✨ Vartika Tiwari
 
-Building practical web applications and exploring modern software development.
+### `Software Engineer` · `Full-Stack Developer`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,50:451126,100:701A3D&height=180&section=header&text=Vartika%20Tiwari&fontSize=42&fontColor=F8F0F3&animation=fadeIn&fontAlignY=38" width="100%" alt="Burgundy animated header banner"/>
+Building projects, solving problems, and learning something new every day.
+
+<a href="https://github.com/VartikaTiwari17">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
+
+<a href="https://github.com/VartikaTiwari17?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-View%20Repositories-451126?style=for-the-badge&logo=git&logoColor=white" alt="View projects"/>
+</a>
 
 </div>
 
 ---
 
-## 🍷 About Me
+## 🌹 About Me
 
-* 👩‍💻 Interested in software engineering and full-stack development.
-* 🌱 Continuously learning programming, problem-solving, and web technologies.
-* 🚀 Interested in building useful applications and contributing to collaborative projects.
-* 🤝 Open to learning opportunities and collaboration on development projects.
+Hi! I'm **Vartika Tiwari**, an aspiring software engineer interested in building practical applications and exploring full-stack development.
 
-## 🛠️ Technical Skills
+* 💻 Interested in software engineering and web development.
+* 🌱 Continuously improving my programming and problem-solving skills.
+* 🚀 Enjoy working on projects that solve practical problems.
+* 🤝 Interested in collaborating on development projects and learning from other developers.
+* 🎯 Focused on growing as a developer through consistent practice and project building.
 
-**Languages:** JavaScript, Java, Python, HTML, CSS
+---
 
-**Frontend:** React.js, Tailwind CSS
+## 🛠️ Tech Stack
 
-**Backend:** Node.js, Express.js, REST APIs
+### Languages
 
-**Database:** MongoDB, MySQL
+![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-451126?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-451126?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Tools:** Git, GitHub, Postman
+### Frontend
 
-*Please keep only the technologies you can confidently explain and have actually studied or used.*
+![HTML5](https://img.shields.io/badge/HTML5-451126?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-451126?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-451126?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-451126?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-451126?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-451126?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-451126?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-451126?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-451126?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-451126?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+
+> Keep only technologies you have actually studied or used and can confidently discuss in an interview.
+
+---
 
 ## 🚀 Featured Projects
 
-### Vibe-Wault
+<!-- PROJECTS:START -->
 
-A team-based e-commerce project focused on backend development.
+### 🛍️ Vibe-Wault
 
-* Backend technologies: Node.js, Express.js, MongoDB
-* Features developed include authentication, product APIs, cart, orders, and payment integration work.
-* [View Repository](https://github.com/VexquorAIorg/Vibe-Wault)
+A collaborative e-commerce project focused on backend development.
 
-### More Projects
+* **Technologies:** Node.js, Express.js, MongoDB
+* **Features:** Authentication, product APIs, cart, orders, and payment integration work.
+* **Repository:** [Explore Vibe-Wault](https://github.com/VexquorAIorg/Vibe-Wault)
 
-Explore my GitHub repositories to see my other projects and ongoing learning.
+### 💻 Explore My Other Projects
 
-[View All Repositories](https://github.com/VartikaTiwari17?tab=repositories)
+Discover more of my development work through my public repositories.
 
-## 📊 GitHub Activity
+[![All Repositories](https://img.shields.io/badge/Explore-All%20Repositories-701A3D?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VartikaTiwari17?tab=repositories)
 
-<div align="center">
+<!-- PROJECTS:END -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=VartikaTiwari17&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
+---
 
-<img src="https://streak-stats.demolab.com?user=VartikaTiwari17&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## 🌐 Connect With Me
+## 📊 GitHub Overview
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-10070C?style=for-the-badge\&logo=github\&logoColor=F8F0F3)](https://github.com/VartikaTiwari17)
+<a href="https://github.com/VartikaTiwari17">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VartikaTiwari17&show_icons=true&theme=radical&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3" alt="GitHub statistics"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge\&logo=linkedin\&logoColor=F8F0F3)](https://www.linkedin.com/)
+<a href="https://github.com/VartikaTiwari17">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VartikaTiwari17&layout=compact&theme=radical&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VartikaTiwari17&theme=radical&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-*Learning, building, and improving one project at a time.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VartikaTiwari17&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Repositories-451126?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VartikaTiwari17)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-451126?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+> Replace the LinkedIn link above with your actual LinkedIn profile URL before publishing.
+
+---
+
+<div align="center">
+
+### 🍷 Learn. Build. Improve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,60:451126,100:10070C&height=100&section=footer" width="100%" alt="Burgundy footer"/>
 
 </div>
